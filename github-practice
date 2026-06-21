@@ -1,0 +1,8 @@
+this is just a github practice repository. in this one we have created a new file
+  print("hello world")
+
+import random
+def randint (min= 0, max = 100):
+    num = random.random()
+    return num
+randint()
